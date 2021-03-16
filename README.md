@@ -1,0 +1,3 @@
+- Hi, I’m Guglielmo!
+- My intrests are videogames and lego bricks
+- I am currently learning to code 
